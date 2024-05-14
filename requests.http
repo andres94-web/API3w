@@ -1,0 +1,28 @@
+GET http://localhost:9000/eventos HTTP/1.1
+
+###
+GET http://localhost:9000/eventos/1 HTTP/1.1
+
+###
+POST http://localhost:9000/eventos HTTP/1.1
+Content-Type: application/json
+
+{
+      "titulo": "fiesta de prueba",
+      "descripcion": "esta es una fiesta de prueba",
+      "fecha": "14-05-2024",
+      "hora": 16,
+      "ubicacion": "coliseo las afueras de ciudad prueba",
+      "categoria": "prueba"
+}
+
+###
+PUT http://localhost:9000/eventos/3 HTTP/1.1
+Content-Type: application/json
+
+{
+  "year": 1989
+}
+
+###
+DELETE http://localhost:9000/eventos/4 HTTP/1.1

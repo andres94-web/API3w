@@ -1,0 +1,22 @@
+{
+  "eventos": [
+    {
+      "id": 1,
+      "titulo": "fiesta de prueba",
+      "descripcion": "esta es una fiesta de prueba",
+      "fecha": "14-05-2024",
+      "hora": 16,
+      "ubicacion": "coliseo las afueras de ciudad prueba",
+      "categoria": "prueba"
+    },
+    {
+      "id": 2,
+      "titulo": "fiesta de prueba 2",
+      "descripcion": "esta es una fiesta de prueba 2",
+      "fecha": "15-05-2024",
+      "hora": 20,
+      "ubicacion": "coliseo las afueras de ciudad prueba",
+      "categoria": "prueba"
+    }
+  ]
+}
