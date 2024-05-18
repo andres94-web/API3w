@@ -1,85 +1,13 @@
 {
   "eventos": [
     {
-      "id": 1,
-      "titulo": "fiesta de prueba",
-      "descripcion": "esta es una fiesta de prueba",
-      "fecha": "14-05-2024",
-      "hora": 16,
-      "ubicacion": "coliseo las afueras de ciudad prueba",
-      "categoria": "prueba"
-    },
-    {
-      "id": 2,
-      "titulo": "fiesta de prueba 2",
-      "descripcion": "esta es una fiesta de prueba 2",
-      "fecha": "15-05-2024",
-      "hora": 20,
-      "ubicacion": "coliseo las afueras de ciudad prueba",
-      "categoria": "prueba"
-    },
-    {
-      "id": 3,
-      "titulo": "fiesta de prueba3",
-      "descripcion": "esta es una fiesta de prueba3",
-      "fecha": "15-05-2024",
-      "hora": 10,
-      "ubicacion": "coliseo las afueras de ciudad prueba",
-      "categoria": "prueba"
-    },
-    {
-      "id": 4,
-      "titulo": "fiesta de prueba3",
-      "descripcion": "esta es una fiesta de prueba3",
-      "fecha": "15-05-2024",
-      "hora": 10,
-      "ubicacion": "coliseo las afueras de ciudad prueba",
-      "categoria": "prueba"
-    },
-    {
-      "id": 5,
-      "titulo": "fiesta de prueba3",
-      "descripcion": "esta es una fiesta de prueba3",
-      "fecha": "15-05-2024",
-      "hora": 10,
-      "ubicacion": "coliseo las afueras de ciudad prueba",
-      "categoria": "prueba"
-    },
-    {
-      "id": 6,
-      "titulo": "fiesta de prueba3",
-      "descripcion": "esta es una fiesta de prueba3",
-      "fecha": "15-05-2024",
-      "hora": 10,
-      "ubicacion": "coliseo las afueras de ciudad prueba",
-      "categoria": "prueba"
-    },
-    {
-      "id": 7,
-      "titulo": "fiesta de prueba3",
-      "descripcion": "esta es una fiesta de prueba3",
-      "fecha": "15-05-2024",
-      "hora": 10,
-      "ubicacion": "coliseo las afueras de ciudad prueba",
-      "categoria": "prueba"
-    },
-    {
-      "id": 8,
-      "titulo": "fiesta de prueba3",
-      "descripcion": "esta es una fiesta de prueba3",
-      "fecha": "15-05-2024",
-      "hora": 10,
-      "ubicacion": "coliseo las afueras de ciudad prueba",
-      "categoria": "prueba"
-    },
-    {
-      "id": 9,
-      "titulo": "fiesta de prueba3",
-      "descripcion": "esta es una fiesta de prueba3",
-      "fecha": "15-05-2024",
-      "hora": 10,
-      "ubicacion": "coliseo las afueras de ciudad prueba",
-      "categoria": "prueba"
+      "id": 10,
+      "titulo": "mis 15",
+      "descripcion": "esta es una fiesta con tematica lluvia de sobres",
+      "fecha": "2024-05-31",
+      "hora": "19:00",
+      "ubicacion": "caseta santo domingo",
+      "categoria": "15 Años"
     }
   ]
 }

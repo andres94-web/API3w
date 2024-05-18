@@ -8,12 +8,12 @@ POST https://api-eventos-3-w.onrender.com/eventos HTTP/1.1
 Content-Type: application/json
 
 {
-      "titulo": "fiesta de prueba3",
-      "descripcion": "esta es una fiesta de prueba3",
-      "fecha": "15-05-2024",
-      "hora": 10,
-      "ubicacion": "coliseo las afueras de ciudad prueba",
-      "categoria": "prueba"
+    "titulo": "mis 15",
+    "descripcion": "esta es una fiesta con tematica lluvia de sobres",
+    "fecha": "2024-05-31",
+    "hora": "19:00",
+    "ubicacion": "caseta santo domingo",
+    "categoria": "15 Años"
 }
 
 ###
@@ -25,4 +25,4 @@ Content-Type: application/json
 }
 
 ###
-DELETE https://api-eventos-3-w.onrender.com/eventos/12 HTTP/1.1
+DELETE https://api-eventos-3-w.onrender.com/eventos/1 HTTP/1.1
