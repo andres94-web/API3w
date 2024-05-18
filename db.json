@@ -1,13 +1,31 @@
 {
   "eventos": [
     {
-      "id": 10,
+      "id": 1,
       "titulo": "mis 15",
-      "descripcion": "esta es una fiesta con tematica lluvia de sobres",
-      "fecha": "2024-05-31",
+      "descripcion": "lluvia de sobres, solo personas con invitacion",
+      "fecha": "2024-06-01",
       "hora": "19:00",
-      "ubicacion": "caseta santo domingo",
+      "ubicacion": "finca las palmas nariño",
       "categoria": "15 Años"
+    },
+    {
+      "id": 2,
+      "titulo": "disfraces locos",
+      "descripcion": "trae tu mejor disfras no te cohibas",
+      "fecha": "2024-06-01",
+      "hora": "21:00",
+      "ubicacion": "centro comercial la 14",
+      "categoria": "Disfraces"
+    },
+    {
+      "id": 3,
+      "titulo": "bebe a bordo",
+      "descripcion": "en mi baby shower quiero que me acompañen los seres queridos de mis papis",
+      "fecha": "2024-06-29",
+      "hora": "15:00",
+      "ubicacion": "cll 22 b/palo santo #22-22",
+      "categoria": "Baby Shower"
     }
   ]
 }
