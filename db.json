@@ -26,6 +26,105 @@
       "hora": "15:00",
       "ubicacion": "cll 22 b/palo santo #22-22",
       "categoria": "Baby Shower"
+    },
+    {
+      "id": 4,
+      "titulo": "nuestra boda",
+      "descripcion": "celebración de amor y compromiso, recepción con cena y baile",
+      "fecha": "2024-07-15",
+      "hora": "17:00",
+      "ubicacion": "hacienda san carlos",
+      "categoria": "Boda"
+    },
+    {
+      "id": 5,
+      "titulo": "boda de ensueño",
+      "descripcion": "ceremonia en el jardín, recepción al aire libre",
+      "fecha": "2024-08-05",
+      "hora": "16:00",
+      "ubicacion": "finca la esperanza",
+      "categoria": "Boda"
+    },
+    {
+      "id": 6,
+      "titulo": "cumpleaños sorpresa",
+      "descripcion": "festejo sorpresa para nuestra querida amiga",
+      "fecha": "2024-07-10",
+      "hora": "18:00",
+      "ubicacion": "club social la estrella",
+      "categoria": "Cumpleaños"
+    },
+    {
+      "id": 7,
+      "titulo": "fiesta de cumpleaños",
+      "descripcion": "ven a celebrar con nosotros, habrá juegos y música",
+      "fecha": "2024-07-20",
+      "hora": "16:00",
+      "ubicacion": "parque central",
+      "categoria": "Cumpleaños"
+    },
+    {
+      "id": 8,
+      "titulo": "aniversario de bodas",
+      "descripcion": "celebramos un año más de amor y felicidad",
+      "fecha": "2024-09-15",
+      "hora": "20:00",
+      "ubicacion": "salón dorado",
+      "categoria": "Aniversario"
+    },
+    {
+      "id": 9,
+      "titulo": "aniversario 25 años",
+      "descripcion": "una noche especial para conmemorar 25 años juntos",
+      "fecha": "2024-10-05",
+      "hora": "19:00",
+      "ubicacion": "hotel las luces",
+      "categoria": "Aniversario"
+    },
+    {
+      "id": 10,
+      "titulo": "dulce quinceañera",
+      "descripcion": "celebración con amigos y familiares, música en vivo",
+      "fecha": "2024-11-01",
+      "hora": "18:00",
+      "ubicacion": "salón de eventos luna",
+      "categoria": "15 Años"
+    },
+    {
+      "id": 11,
+      "titulo": "fiesta de disfraces",
+      "descripcion": "vístete de tu personaje favorito y ven a divertirte",
+      "fecha": "2024-11-11",
+      "hora": "20:00",
+      "ubicacion": "club nocturno eclipse",
+      "categoria": "Disfraces"
+    },
+    {
+      "id": 12,
+      "titulo": "noche de Halloween",
+      "descripcion": "una noche de terror y diversión, premio al mejor disfraz",
+      "fecha": "2024-10-31",
+      "hora": "21:00",
+      "ubicacion": "casa embrujada",
+      "categoria": "Disfraces"
+    },
+    {
+      "id": 13,
+      "titulo": "llegada del bebé",
+      "descripcion": "celebramos la llegada de nuestro pequeño con familia y amigos",
+      "fecha": "2024-07-05",
+      "hora": "14:00",
+      "ubicacion": "jardín encantado",
+      "categoria": "Baby Shower"
+    },
+    {
+      "id": 14,
+      "titulo": "esperando a nuestro bebé",
+      "descripcion": "un día especial para compartir la felicidad de nuestro nuevo miembro de la familia",
+      "fecha": "2024-08-20",
+      "hora": "15:30",
+      "ubicacion": "salón de eventos la familia",
+      "categoria": "Baby Shower"
     }
   ]
 }
